@@ -1,20 +1,24 @@
-mybox
+# mybox
 
-QA and software testing repositories:
-1. GitLab training https://github.com/mpawel79/gitlab_CID_training
+### QA and software testing repositories:
+* GitLab training https://github.com/mpawel79/gitlab_CID_training
 
-ML/AI repositories:
+## ML/AI repositories:
 
-1. DataWorkshop - Road signs detection https://github.com/mpawel79/dw_matrix_road_sign
-2. DataWorkshop - Car price estimation  https://github.com/mpawel79/dw_matrix_car
+### DataScience studies: 
+* DS 2019 - https://github.com/mpawel79/DS2019/tree/master
+* DataMining
+* MSI_AI-ML
+* Tableau TextMining
 
-DataScience studies 
-1. DS 2019 - https://github.com/mpawel79/DS2019/tree/master
-2. DataMining
-3. MSI_AI-ML
-4. Tableau TextMining
+###  Workshops:
+* DataWorkshop - Road signs detection https://github.com/mpawel79/dw_matrix_road_sign
+* DataWorkshop - Car price estimation  https://github.com/mpawel79/dw_matrix_car
 
-IOS development:
-1. Old projects: 
-2. DotRace: https://appadvice.com/app/dotrace2/944400660
-3. InstanFan: http://www.app-store.es/desarrollador/paraglise
+
+
+
+## IOS development:
+Old projects: 
+* DotRace: https://appadvice.com/app/dotrace2/944400660
+* InstanFan: http://www.app-store.es/desarrollador/paraglise
